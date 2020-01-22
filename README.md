@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work together. Adding a line for rebasing example, more changes from myfeateure too.
+This repository is for showing how Git and GitHub work together. Update emergency fix after stash. So why is this not working?
 
 This is example is to show different parts of the Git repository and various commands using a web project
 
