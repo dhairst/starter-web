@@ -6,7 +6,11 @@ This is example is to show different parts of the Git repository and various com
 
 ## Purpose
 
+As stated above, the main purpose is to proved simple examples for GIt trainning demos.
+
 ## Deployment
+
+This is a simple web project, development can be on any web server or even local file system.
 
 ## How To Contribute
 Sample website with plenty of files for demos
